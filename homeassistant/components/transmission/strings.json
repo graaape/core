@@ -30,7 +30,7 @@
           "username": "[%key:common::config_flow::data::username%]"
         },
         "data_description": {
-          "host": "The hostname or IP address of the Transmission instance.",
+          "host": "This is for demo. The hostname or IP address of the Transmission instance.",
           "password": "The password to authenticate with the Transmission instance, if set.",
           "path": "The RPC request target path, for example, `/transmission/rpc`.",
           "port": "The port number of the Transmission instance.",
